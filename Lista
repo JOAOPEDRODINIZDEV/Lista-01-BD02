@@ -29,7 +29,8 @@ create table itenspedido (
     precounitario decimal(10, 2) not null
 );
 
--- lista 01 - pedro ramon
+-- lista 01 - João Pedro
+
 
 -- questões sobre funções (functions)
 
